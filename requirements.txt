@@ -1,0 +1,10 @@
+fastapi==0.75.0
+loguru==0.5.3
+psycopg2-binary==2.9.2
+pydantic==1.8.2
+PyJWT==1.7.1
+python-multipart==0.0.5
+requests==2.26.0
+SQLAlchemy==1.4.27
+starlette==0.17.1
+uvicorn==0.17.6
