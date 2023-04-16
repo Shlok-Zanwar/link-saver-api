@@ -5,7 +5,7 @@ from sqlalchemy.orm import Session
 from src.utils.jwt_utils import generate_token, verify_token
 import psycopg2.extras
 import random
-from email.message import [EmailMessage]
+from email.message import EmailMessage
 from os import getenv
 import smtplib, ssl
 from pydantic import BaseModel
